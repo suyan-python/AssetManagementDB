@@ -35,10 +35,6 @@ export default function Sidebar({ view, setView }) {
           </button>
         ))}
       </nav>
-      <div className="sidebar-bottom">
-        <div className="online-dot" />
-        Frontend prototype <span>v1.0</span>
-      </div>
     </aside>
   );
 }
